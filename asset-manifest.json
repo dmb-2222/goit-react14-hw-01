@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dmb-2222/goit-react14-hw-01.git/static/css/main.2a65e7a8.chunk.css",
-    "main.js": "/dmb-2222/goit-react14-hw-01.git/static/js/main.1a4e4ec2.chunk.js",
-    "main.js.map": "/dmb-2222/goit-react14-hw-01.git/static/js/main.1a4e4ec2.chunk.js.map",
-    "runtime-main.js": "/dmb-2222/goit-react14-hw-01.git/static/js/runtime-main.34798ca8.js",
-    "runtime-main.js.map": "/dmb-2222/goit-react14-hw-01.git/static/js/runtime-main.34798ca8.js.map",
-    "static/js/2.73d9e10b.chunk.js": "/dmb-2222/goit-react14-hw-01.git/static/js/2.73d9e10b.chunk.js",
-    "static/js/2.73d9e10b.chunk.js.map": "/dmb-2222/goit-react14-hw-01.git/static/js/2.73d9e10b.chunk.js.map",
-    "index.html": "/dmb-2222/goit-react14-hw-01.git/index.html",
-    "precache-manifest.ced644d638705e28f653068e28c978c7.js": "/dmb-2222/goit-react14-hw-01.git/precache-manifest.ced644d638705e28f653068e28c978c7.js",
-    "service-worker.js": "/dmb-2222/goit-react14-hw-01.git/service-worker.js",
-    "static/css/main.2a65e7a8.chunk.css.map": "/dmb-2222/goit-react14-hw-01.git/static/css/main.2a65e7a8.chunk.css.map"
+    "main.css": "/goit-react14-hw-01.git/static/css/main.2a65e7a8.chunk.css",
+    "main.js": "/goit-react14-hw-01.git/static/js/main.1a4e4ec2.chunk.js",
+    "main.js.map": "/goit-react14-hw-01.git/static/js/main.1a4e4ec2.chunk.js.map",
+    "runtime-main.js": "/goit-react14-hw-01.git/static/js/runtime-main.c8aedae8.js",
+    "runtime-main.js.map": "/goit-react14-hw-01.git/static/js/runtime-main.c8aedae8.js.map",
+    "static/js/2.73d9e10b.chunk.js": "/goit-react14-hw-01.git/static/js/2.73d9e10b.chunk.js",
+    "static/js/2.73d9e10b.chunk.js.map": "/goit-react14-hw-01.git/static/js/2.73d9e10b.chunk.js.map",
+    "index.html": "/goit-react14-hw-01.git/index.html",
+    "precache-manifest.b53b2d1f5abf81cfec3c27b656d85dd6.js": "/goit-react14-hw-01.git/precache-manifest.b53b2d1f5abf81cfec3c27b656d85dd6.js",
+    "service-worker.js": "/goit-react14-hw-01.git/service-worker.js",
+    "static/css/main.2a65e7a8.chunk.css.map": "/goit-react14-hw-01.git/static/css/main.2a65e7a8.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.34798ca8.js",
+    "static/js/runtime-main.c8aedae8.js",
     "static/js/2.73d9e10b.chunk.js",
     "static/css/main.2a65e7a8.chunk.css",
     "static/js/main.1a4e4ec2.chunk.js"
