@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/goit-react14-hw-01.git/static/css/main.2a65e7a8.chunk.css",
-    "main.js": "/goit-react14-hw-01.git/static/js/main.1a4e4ec2.chunk.js",
-    "main.js.map": "/goit-react14-hw-01.git/static/js/main.1a4e4ec2.chunk.js.map",
-    "runtime-main.js": "/goit-react14-hw-01.git/static/js/runtime-main.c8aedae8.js",
-    "runtime-main.js.map": "/goit-react14-hw-01.git/static/js/runtime-main.c8aedae8.js.map",
-    "static/js/2.73d9e10b.chunk.js": "/goit-react14-hw-01.git/static/js/2.73d9e10b.chunk.js",
-    "static/js/2.73d9e10b.chunk.js.map": "/goit-react14-hw-01.git/static/js/2.73d9e10b.chunk.js.map",
-    "index.html": "/goit-react14-hw-01.git/index.html",
-    "precache-manifest.b53b2d1f5abf81cfec3c27b656d85dd6.js": "/goit-react14-hw-01.git/precache-manifest.b53b2d1f5abf81cfec3c27b656d85dd6.js",
-    "service-worker.js": "/goit-react14-hw-01.git/service-worker.js",
-    "static/css/main.2a65e7a8.chunk.css.map": "/goit-react14-hw-01.git/static/css/main.2a65e7a8.chunk.css.map"
+    "main.css": "/goit-react14-hw-01/static/css/main.2a65e7a8.chunk.css",
+    "main.js": "/goit-react14-hw-01/static/js/main.1a4e4ec2.chunk.js",
+    "main.js.map": "/goit-react14-hw-01/static/js/main.1a4e4ec2.chunk.js.map",
+    "runtime-main.js": "/goit-react14-hw-01/static/js/runtime-main.144057ef.js",
+    "runtime-main.js.map": "/goit-react14-hw-01/static/js/runtime-main.144057ef.js.map",
+    "static/js/2.73d9e10b.chunk.js": "/goit-react14-hw-01/static/js/2.73d9e10b.chunk.js",
+    "static/js/2.73d9e10b.chunk.js.map": "/goit-react14-hw-01/static/js/2.73d9e10b.chunk.js.map",
+    "index.html": "/goit-react14-hw-01/index.html",
+    "precache-manifest.b11e22a62f886830d323fb7d37feaf5e.js": "/goit-react14-hw-01/precache-manifest.b11e22a62f886830d323fb7d37feaf5e.js",
+    "service-worker.js": "/goit-react14-hw-01/service-worker.js",
+    "static/css/main.2a65e7a8.chunk.css.map": "/goit-react14-hw-01/static/css/main.2a65e7a8.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8aedae8.js",
+    "static/js/runtime-main.144057ef.js",
     "static/js/2.73d9e10b.chunk.js",
     "static/css/main.2a65e7a8.chunk.css",
     "static/js/main.1a4e4ec2.chunk.js"
