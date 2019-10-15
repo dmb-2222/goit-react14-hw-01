@@ -7,6 +7,7 @@ const FriendList = ({ friends = [] }) => {
       {friends.map(friend => (
         <FriendListItem
           key={friend.id}
+          //Оставил для себя на будущее
           //   key={friend.id}
           //   isOnline={friend.isOnline}
           //   name={friend.name}
